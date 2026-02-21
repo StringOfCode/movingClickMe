@@ -13,8 +13,17 @@ $("#btn").on("mouseenter", function() {
     
     // setting the buttons new position
     $(this).css({
-        left: randomWidth + "px",
-        top: randomHeight + "px",
+        left: 30 + "px",
+        top: 30 + "px",
     })
+})
+
+// adding a function if user manages to click the button.
+$("#btn").on("click", function() {
+    // hides the button
+    $(this).hide();
+
+    //adding some text to the HTML
+    $("#secret").fadeIn(3000);
 })
 })

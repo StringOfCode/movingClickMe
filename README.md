@@ -11,6 +11,7 @@ When the user tries to click the button, the button moves to a random location o
 * A CSS file
 * A javascript file
 * A Jquery javascript library
+* Image of [Quokka](https://unsplash.com/photos/a-small-animal-on-a-log-364fWlWEVqI)
 
 ## changelog
 * first creating the Repo
@@ -19,3 +20,4 @@ When the user tries to click the button, the button moves to a random location o
 * added the Jquery file, and a link to the Jquery.
 * added button movment with the script.
 * added transition effect.
+* added a secret for button press. Also added an image.
