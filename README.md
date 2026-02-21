@@ -15,3 +15,4 @@ When the user tries to click the button, the button moves to a random location o
 ## changelog
 * first creating the Repo
 * setting everything up. creating how the code should look, and linking the HTML to everything.
+* created how the button should look. Fixed a typo for button id.
