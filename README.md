@@ -11,3 +11,7 @@ When the user tries to click the button, the button moves to a random location o
 * A CSS file
 * A javascript file
 * A Jquery javascript library
+
+## changelog
+* first creating the Repo
+* setting everything up. creating how the code should look, and linking the HTML to everything.
