@@ -13,8 +13,8 @@ $("#btn").on("mouseenter", function() {
     
     // setting the buttons new position
     $(this).css({
-        left: 30 + "px",
-        top: 30 + "px",
+        left: randomWidth + "px",
+        top: randomHeight + "px",
     })
 })
 
